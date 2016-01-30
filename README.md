@@ -102,7 +102,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
  - [ ] Check out [The JavaScript Promise](http://thejavascriptpromise.com) to understand benefits of working with full stack JavaScript and get access to *batteries included* open source projects to get your app idea out and running in the cloud.
 
 ### Advanced JavaScript
-- [ ] Learn how to use some features from ES6, the next version of JavaScript.
+- [x] Learn how to use some features from ES6, the next version of JavaScript.
   - `npm install -g count-to-6`
 - [ ] Understanding JavaScript Prototypes
   - `npm install -g planetproto`
