@@ -73,7 +73,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - `npm install -g test-anything`
 
 ### Get Started with Node.JS
- - [ ] Learn the basics of node: asynchronous i/o, http.
+ - [x] Learn the basics of node: asynchronous i/o, http.
   - `npm install -g learnyounode`
  - [ ] Learn a web framework
   - [ ] Hapi.JS `npm install -g makemehapi` http://hapijs.com/
